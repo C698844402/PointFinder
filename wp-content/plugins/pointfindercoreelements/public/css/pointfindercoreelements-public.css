@@ -1,0 +1,194 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ div#pointfinder-category-map {
+    display: block;
+    position: relative!important;    z-index: 2;
+}
+.golden-forms .social-btns a i.pfloginglogo{
+	background: url(../../images/Google__G__Logo.svg)!important;
+	background-image: url(../../images/Google__G__Logo.svg)!important;
+	background-repeat: no-repeat!important;
+    background-size: 21px 21px!important;
+    background-position: 9px 11px!important;
+    border: 1px solid #e2e2e2!important;
+    width: 42px!important;
+    height: 41px!important;
+}
+.golden-forms .social-btns a.gbs{
+	background:#ffffff!important;
+	background-color:#ffffff!important;
+}
+
+.golden-forms .social-btns a.gbs:hover{
+	opacity: 0.8
+}
+.accountremovebutton {
+    margin-top: 15px!important;
+    font-weight: 600;
+    font-size: 11px!important;
+}
+.accountremovebutton:hover {
+    opacity: .7;
+}
+.accountremovebuttonres {
+    margin-top: 20px!important;
+    margin-bottom: -10px!important;
+}
+.accountremovebutton i.fas.fa-times-circle {
+    vertical-align: text-bottom;
+}
+.leaflet-control-locate a span {
+    font-size: 18px!important;
+}
+#pfsearch-draggable .we-change-addr-input .typeahead__result {
+    position: fixed;
+    z-index: 9;
+    display: block;
+}
+#pfsearch-draggable .we-change-addr-input ul.typeahead__list {
+    min-width: 218px;
+}
+#pfsearch-draggable span.typeahead__cancel-button,#pfsearch-draggable span.typeahead__cancel-button2 {
+    font-size: 19px;
+    line-height: 1.6;
+}
+#pfsearch-draggable .we-change-addr-input span.typeahead__cancel-button2 {
+    right: 53px;
+    font-size: 19px;
+    line-height: 1.6;
+    top: 5px;
+}
+
+#pfsearch-draggable .pf-search-locatemebutloading {
+    height: 14px;
+    width: 14px;
+    background-size: 14px 14px!important;
+    top: 13px;
+}
+
+.pointfinder-mini-search .pf-search-locatemebutloading{
+    top: 12px;
+    right: 6px;
+}
+
+#pfsearch-draggable .pfsearch-content .typeahead__list>li {
+    font-size: 13px;
+}
+
+#pfsearch-draggable .typeahead__container.we-change-addr-input.loading .typeahead__query:after, 
+#pfsearch-draggable .typeahead__container.we-change-addr-input.loading .typeahead__query:before, 
+#pfsearch-draggable .typeahead__container.we-change-addr-input.loading .typeahead__query:after, 
+#pfsearch-draggable .typeahead__container.we-change-addr-input.loading .typeahead__query:before {
+    right: 52px!important;
+}
+
+#pfsearch-draggable .typeahead__container.we-change-addr-input .typeahead__field input {
+    padding-right: 66px;
+}
+
+#pfsearch-draggable a#pf_search_geolocateme:hover i,
+#pfsearch-draggable span.typeahead__cancel-button:hover,
+#pfsearch-draggable span.typeahead__cancel-button2:hover,
+#pfsearch-draggable a#pf_search_geodistance:hover i,
+.pf-search-locatemebut:hover,
+.pf-gdirections-locatemebut:hover,
+.pointfinder-mini-search a#pf_search_geodistance:hover i{
+    color: #d0021b!important;fill:#d0021b!important;;
+}
+.typeahead__cancel-button2 {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+    line-height: 1.25;
+    padding: .5rem .75rem;
+    visibility: hidden;
+}
+.pfsearch-content .typeahead__cancel-button2 {
+    line-height: 1.7;
+    z-index: 2;
+    font-size: 16px;
+}
+.pfminigoogleaddon .typeahead__result{
+    position: fixed;
+    z-index: 9;
+}
+.pfminigoogleaddon ul.typeahead__list, .pfminigoogleaddon .typeahead__result{
+    width: inherit;
+}
+.pointfinder-mini-search .slider-wrapper,#pfsearch-draggable .slider-wrapper {
+    width: 98%;
+}
+.leaflet-div-icon{background: transparent!important; border:none!important;}
+#pfdirectorymap .leaflet-top.leaflet-right {
+    padding-top: 85px;
+}
+
+.pftransparenthead .leaflet-top.leaflet-left {
+    padding-top: 130px!important;
+}
+.pftransparenthead .leaflet-top.leaflet-right {
+    padding-top: 186px!important;right: 2px;
+}
+#pfdirectorymap .leaflet-top.leaflet-left {
+    padding-top: 40px;
+}
+@media (max-width: 1024px){
+    .pftransparenthead .leaflet-top.leaflet-left {
+        padding-top: 40px!important;
+    }
+    .pftransparenthead .leaflet-top.leaflet-right{
+        padding-top: 85px!important;
+        right: 0px;
+    }
+}
+@media (max-width: 768px){
+    .pftransparenthead .leaflet-top.leaflet-right{
+        padding-top: 85px;
+        right: 0px;
+    }
+    .leaflet-control-fullscreen.leaflet-bar.leaflet-control{
+        display:none!important;
+    }
+    #pfdirectorymap .leaflet-top.leaflet-left {
+    padding-top: 40px;
+    }
+    #pfdirectorymap .leaflet-top.leaflet-right {
+    padding-top: 85px;
+    }
+    .pfnotificationwindow {
+    top: 50px;
+    }
+    .pfnot-err-button {
+    top: 50px;
+    }
+}
+@media (max-width: 568px){
+    #pfdirectorymap .leaflet-top.leaflet-left {
+    padding-top: 40px;
+    }
+    #pfdirectorymap .leaflet-top.leaflet-right {
+    padding-top: 85px;
+    }
+    .pfnotificationwindow {
+    top: 18px;
+    }
+    .pfnot-err-button {
+    top: 18px;
+    }
+    .pf-fullwidth .wpb_column {
+    margin-bottom: 0;
+    }
+
+}
+.pfhalfmappageview .pfsearch-content #pointfinder_radius_search_main{
+    margin-top: 0px;
+}
+.leaflet-left .leaflet-control-zoom.leaflet-bar.leaflet-control:nth-child(2) {
+    display: none;
+}

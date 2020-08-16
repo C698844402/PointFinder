@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user_can",
+				"current_user_can"
+			],
+			[
+				"ob_get",
+				"ob_get_contents〔function〕"
+			],
+			[
+				"script",
+				"script_output"
+			],
+			[
+				"is_user_",
+				"is_user_logged_in"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 555.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/kadiratasoglu/.yandex.disk/336137516/Yandex.Disk.localized/Projects/Modulex",
+		"/Applications/AMPPS/www/pointfinderoriginal/wp-content/themes/pointfinder/admin/estatemanagement/post-types.php",
+		"/Applications/AMPPS/www/pointfinderoriginal/wp-content/themes/pointfinder/admin/estatemanagement/includes/pages/itemdetail/theme-map-scripts-itemdetail.php",
+		"/Applications/AMPPS/www/pointfinderoriginal/wp-content/themes/pointfinder/admin/options/PointfinderOptions.config.php",
+		"/Applications/AMPPS/www/pointfinderoriginal/wp-config.php",
+		"/Applications/AMPPS/www/pointfinder/wp-config.php",
+		"/Applications/AMPPS/www/pointfinderoriginal/wp-content/themes/pointfinder/style.css",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/estatemanagement/includes/functions/modified-review-functions.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/admin/traits/invoices-metabox.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/estatemanagement/invoices-metabox.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/admin/traits/listing-metabox.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/admin/traits/listing-review-metabox.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/estatemanagement/review-metabox.php",
+		"/Users/kadiratasoglu/Desktop/Silinenler/modified-functions.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/estatemanagement/includes/functions/modified-functions.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/public/traits/listing-contents.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/includes/traits/functions-common.php",
+		"/Users/kadiratasoglu/Desktop/WEB Projects/PointFinder Release/v1.8.9.1/PointFinder_Full_Package/pointfinder/admin/estatemanagement/includes/functions/common-functions.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/estatemanagement/includes/functions/statuschange-functions.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/admin/traits/functions-statuschange.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/estatemanagement/includes/functions/common-user-functions.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/estatemanagement/payment-metabox.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/admin/traits/order-metabox.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/includes/class-pointfindercoreelements.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/admin/traits/morder-metabox.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/estatemanagement/pointfinder-metabox-ex.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/estatemanagement/includes/schedule-config.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/estatemanagement/includes/pages/dashboard/dashboard-functions.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/public/class-pointfindercoreelements-listing-details.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/public/traits/listing-columns.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/public/traits/listing-review.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/public/class-pointfindercoreelements-public.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/includes/traits/options.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/includes/traits/wpml.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/includes/traits/functions-review.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/estatemanagement/includes/functions/review-functions.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/admin/class-pointfindercoreelements-admin.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/core/css/metabox-custom.css",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/admin/traits/listing-column-filters.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/functions.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/fallback.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/public/traits/listing-breadcrumbs.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/public/traits/listing-sharebar.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/public/traits/listing-comments.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/themes/pointfinder/admin/estatemanagement/includes/pages/itemdetail/sharebar-part.php",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/public/ajax/class-listing-type-limits.php",
+		"/Users/kadiratasoglu/Library/Application Support/Sublime Text 3/Packages/User/SublimePhpCsFixer.sublime-settings",
+		"/Users/kadiratasoglu/Library/Application Support/Sublime Text 3/Packages/SublimePhpCsFixer/SublimePhpCsFixer.sublime-settings",
+		"/Users/kadiratasoglu/Library/Application Support/Sublime Text 3/Packages/User/phpcbf.sublime-settings",
+		"/Users/kadiratasoglu/Library/Application Support/Sublime Text 3/Packages/phpcbf/phpcbf.sublime-settings",
+		"/Applications/AMPPS/www/pointfinder/wp-content/plugins/pointfindercoreelements/pointfindercoreelements.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rest api",
+			"setup5_mapsettings_type",
+			"setup10_infowindow_height",
+			"'show_in_rest' => true"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Modulex.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 374.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

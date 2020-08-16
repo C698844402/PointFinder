@@ -1,0 +1,14 @@
+.pflineclamp-address,
+.pflineclamp-excerpt,
+.pflineclamp-title,
+.pflineclamp-title-iw,
+.pflineclamp-address-iw{
+  overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.pf-search-locatemebut,.pf-gdirections-locatemebut{ bottom:18px;top:7px;}
+.pfsearch-content #pf_search_geodistance{bottom:19px;}
+#pfsearch-draggable .pf-search-locatemebutloading{top:8px;}
+#pf-resetfilters-button{border:0;}
+.pointfinder-mini-search a#pf_search_geodistance{bottom:5px;}

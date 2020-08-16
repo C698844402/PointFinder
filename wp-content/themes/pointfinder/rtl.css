@@ -1,0 +1,314 @@
+.pfuaformsidebar .pf-sidebar-menu li, #pfsearch-draggable .pfitemlist-content{text-align:right}
+.pf-sidebar-menu li a .pfbadge{left:15px; right:auto!important}
+.golden-forms .toggle-switch >label:after{left:2px; right:auto!important}
+.golden-forms .toggle-switch >label:after, .wpfinfowindow .wpf-closeicon, .wpfinfowindow2 .wpf-closeicon{left:0; right:auto!important}
+.golden-forms .pflabelfixsearch.search >.input{padding:0 40px 0 9px!important}
+.select2-results ul.select2-result-sub{padding-right:0}
+ul.pfmu-userbuttonlist{text-align:right}
+.golden-forms .select:before, .golden-forms .select:after{left:10px; right:auto!important}
+#pf-ajax-itemrefine-button{margin-left:10px}
+.pflistgridview .pflistcommonview-header .searchformcontainer-filters-right li:last-child{margin-right:5px!important}
+.pfshowmaplink, 
+.pflist-itemdetails .pflist-itemtitle a, 
+.pflist-itemdetails >.pflist-address, .pflist-customfields{text-align:right}
+.pfnavmenu li{float:right; text-align:right!important}
+.wpf-header #pf-primary-nav .pfnavmenu .pfnavsub-menu li a{ text-align:right}
+.pflist-itemdetails .pflist-itemtitle a{ display:block}
+.pfribbon-featured{right:-30px; left:auto}
+.pfribbon-featured:before{ right:0;  left:auto}
+.pfribbon-featured:after{ left:0;  right:auto}
+.wpfinfowindow .pfribbon-featured2{text-align:right;  padding-right:5px}
+.pflistingitem-subelement.pf-price:last-child{margin-right:0}
+#pf-ajax-uploaditem-button, #pf-ajax-profileupdate-button{float:right; clear:left}
+
+.wpfinfowindow .wpfimage{float:right}
+.wpfimage-wrapper{ float:right;  margin-left:15px;  margin-right:0}
+.pfmaptype-control .pfmaptype-control-ul .pfmaptype-control-li{margin-right:8px}
+.sub-menu-link span{left:10px; right:auto}
+.wpf-header .pfnavmenu ul li ul li a .pfadmicon-glyph-860:before{content: '\f054'!important;}
+.pfdetailitem-subelement .pfdetail-ftext, .pf-itempage-ohours .pfdetail-ftext{ float:left}
+.ui-tabgroup >.ui-tabs, .ui-tabgroup >.ui-tabs >[class^="ui-tab"]{ float:right}
+.pf-item-slider .pf-item-slider-ex-container{float:right!important;}
+.widget_pfitem_recent_entries ul li{text-align: right!important;}
+.widget_pfitem_recent_entries ul li img {float: right;margin-left: 10px;}
+html[dir="rtl"] .select2-search-choice-close {left: 20px!important;right: auto!important;}
+.sub-menu-link .fa-chevron-down:before{content: '\f054'!important;}
+.widget_recent_entries ul li:after {content: '\e821';font-family: "fontello";margin-left: .3em;}
+.widget_recent_entries ul li:before {content: '';margin-left: 0;}
+.widget_categories ul li a:after {content: '\e9fe';font-family: "fontello";margin-left: .4em;}
+.widget_categories ul li a:before {content: '';margin-right: 0;}
+.widget_recent_comments ul li:after {content: '\e97e';font-family: "fontello";margin-left: .3em;}
+.widget_recent_comments ul li:before {content: '';margin-right: 0;}
+.pfsearchformerrors ul li{text-align: right!important;right:0;}
+#pfuaprofileform .pfsearchformerrors .pfsearch-err-button{  margin-right: 25px!important;  margin-left: auto!important;}
+.pfsearchformerrors ul li:before{content: '';margin-right: 0;width: 0;right: 0;}
+.pfuaformsidebar .pf-sidebar-menu li { text-align: right }
+.pull-right {margin-left: 5px;}
+#pf-itempage-page-map-directions #gdlocations {margin-right: 30px;}
+.pfdetailitem-subelement .pfdetail-ftext, .pf-itempage-ohours .pfdetail-ftext {white-space: pre;}
+#pf-primary-search-button{ left:95px;  right:auto!important}
+#pf-topprimary-nav-button2{ left:135px;  right:auto!important}
+#pf-topprimary-nav-button{ right:auto!important;  left:15px}
+#pf-primary-nav-button{ right:auto!important;  left:55px}
+@media (max-width:568px){
+    .rtl .pf-breadcrumbs{left:auto;right: -10px;
+    float: right;}
+	.wpf-header .pf-menu-container{ margin-top:5px}
+.pf_language_selects img{margin-left:5px}
+#pf-topprimary-navmobi2 li a, .wpf-header #pf-primary-nav li a, .wpf-header #pf-primary-nav.pfmobileview .pfnavmenu .main-menu-item >a, #pf-topprimary-navmobi .pf-nav-dropdownmobi li a{ text-align:right!important}
+}
+@media (max-width:992px){.pf_language_selects img{margin-left:5px}
+#pf-topprimary-navmobi2 li a, .wpf-header #pf-primary-nav li a, .wpf-header #pf-primary-nav.pfmobileview .pfnavmenu .main-menu-item >a, #pf-topprimary-navmobi .pf-nav-dropdownmobi li a{ text-align:right!important}
+}
+.wpfinfowindow .wpftext > .wpftitle {text-align: right;}
+.wpfinfowindow .wpftext > .wpfaddress {text-align: right;}
+.wpfinfowindow .wpftext > .wpfdetail > .pfinfowindowdlist {text-align: right;}
+@media (max-width: 992px){
+	/*.wpf-header .pf-logo-container {position: absolute;}*/
+}
+.pfdetailitem-subelement .pfdetail-ftext, .pf-itempage-ohours .pfdetail-ftext {
+    white-space: normal!important;
+}
+.dz-hidden-input {
+    overflow: hidden;
+}
+.rtl .pfsubmit-inner-totalcost-output .pf-lppack-package-info ul li .pf-lppack-package-info-price {
+    right: inherit;
+    left: 0;
+}
+.rtl .pfsubmit-inner-totalcost-output .pf-lppack-package-info .pf-total-pricelp {
+    margin-right: 0;
+    margin-left: 0;
+}
+.rtl.single .wpf-container{overflow-x:hidden}
+html {
+     overflow-y: scroll;
+     overflow-x: hidden;
+     overflow: -moz-scrollbars-vertical;
+} .ui-tabgroup >input[class^="ui-tab"]{left:auto;}
+.rtl .pflistgridviewgr-container .pflistgridview .pflistcommonview-header .searchformcontainer-filters .pfgridlist5 {
+    margin-right: 5px;
+}
+.rtl .golden-forms .pflabelfixsearch.search >.input {
+    padding: 0 55px 0 9px!important;
+}
+
+.rtl .pf-titlebar-texts {
+        right: 0;
+    left: auto;
+    float: right;
+    clear: both;
+        text-align: right;
+}
+.rtl .pf-breadcrumbs{    left: 15px;
+    right: auto;}
+.rtl .pfitemlists-content-elements .wpfitemlistdata .pflist-imagecontainer {
+    float: right;
+}
+.rtl .pfitemlists-content-elements.pf1col .wpfitemlistdata .pflist-detailcontainer {
+    float: right;
+    margin-right: 10px;
+}
+.rtl .pfitemlists-content-elements.pf1col .wpfitemlistdata .pflist-detailcontainer .pflist-itemdetails .pflist-category {
+    text-align: right;
+}
+.rtl .pfitemlists-content-elements.pf1col .wpfitemlistdata .pflist-detailcontainer .pflist-excerpt.pflist-subitem {
+    text-align: right;
+}
+.rtl .pfstatic_paginate {
+    right: 0!important;
+    left: auto!important;
+    text-align: right;
+}
+.rtl .pf-uadashboard-container .pfalign-right {
+    text-align: right!important;
+}
+.rtl .golden-forms .rating-input{
+        right: -9999px;left:auto!important;
+}
+.rtl .pp_close {
+    background: none!important;
+    right: 20px;
+    top: 10px;
+}
+.rtl .pf-termsconditions-class {
+    text-align: right;
+}
+.rtl .golden-forms .rating-star, .rtl .golden-forms .rating:hover .rating-star {
+    float: left;
+}
+.rtl .pfrevstars-wrapper-review {
+    text-align: right;
+}
+.rtl .golden-forms .rating-star, .rtl .golden-forms .rating:hover .rating-star {
+    float: left;
+}
+.rtl .rating span.lbl-text {
+    float: right;
+}
+.rtl .pfitem-featuredprice {
+    right: auto;
+    left: 10px;
+}
+.rtl .pfupload-featured-item-box .toggle-switch.blue {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.rtl .wpf-header .pfnavmenu li a .pfadmicon-glyph-860:before {
+    margin-right: .3em;
+}
+.rtl .pf-main-term-icon {
+    float: right;
+    margin: 0 0 0 8px;
+}
+.rtl .pf-child-term-main .pf-child-term span.pull-right {
+    float: left!important;
+    margin-right: 5px;
+    margin-left: 0!important;
+}
+.rtl .pf-main-term .pull-right {
+    float: left!important;
+    margin-left: 0!important;
+    margin-right: 5px;
+}
+.rtl .default-icon .aio-icon-default .aio-icon, .rtl .default-icon .aio-icon-default .aio-icon-img, .rtl .left-icon .aio-icon-left .aio-icon, .rtl .left-icon .aio-icon-left .aio-icon-img {
+    margin-left: 15px;
+    margin-right: 0!important;
+}
+.rtl .wpf-header #pf-primary-nav .pfnavmenu #pfpostitemlink a {
+    margin-right: 20px!important;
+    margin-left: 0!important;
+}
+.rtl .pf_language_selects img {
+    margin-left: 5px;
+    margin-right: 0!important;
+}
+@media (max-width: 992px){
+    .rtl .pfitemlists-content-elements.pf1col .wpfitemlistdata .pflist-detailcontainer .pflist-excerpt.pflist-subitem {
+        padding-left: 30px;padding-right:0;
+    }
+}
+.rtl .pf-rev-stars {
+    float: left;
+}
+.rtl .pf-rev-cr-text {
+    float: right;
+}
+.rtl #pf-itempage-page-map-directions #gdtype {
+    margin-right: 29px;
+    margin-left: 0;
+}
+.rtl .isotope-item {
+  -webkit-transition-property: right, top, -webkit-transform, opacity;
+     -moz-transition-property: right, top, -moz-transform, opacity;
+      -ms-transition-property: right, top, -ms-transform, opacity;
+       -o-transition-property: right, top, -o-transform, opacity;
+          transition-property: right, top, transform, opacity;
+}
+
+.pfnewlanguageselection .langbarpf {
+    margin-right: 10px;
+    margin-left: 15px;
+}
+.pfmobilemenucontainer nav[data-direction="right"] .pfnavmenu li>a>span,
+.pfmobilemenucontainer nav[data-direction="left"] .pfnavmenu li>a>span {
+    position: absolute;
+    left: 25px!important;
+    right:auto!important;
+}
+.pfnewlanguageselection,
+.wpf-header .pf-primary-navclass .pfnavmenu .main-menu-item > a,
+#pf-primary-navmobile.pf-primary-navclass .pfnavmenu .pfnavsub-menu > li a.sub-menu-link,
+#pf-primary-navmobile.pf-primary-navclass .pfnavmenu .pfnavsub-menu > li a.sub-menu-link {
+    text-align: right!important;
+}
+@media (max-width: 1024px){
+.pf-primary-navclass .pfnavmenu li a {
+    margin: 0 15px 0 15px;
+    padding: 13px 0;
+}
+}
+#pf-topprimary-navmobi .pf-nav-dropdownmobi li a {
+    margin: 0 15px 0 15px;
+}
+#pf-topprimary-navmobi .pf-nav-dropdownmobi li a i {
+    margin-left: 5px;
+}
+.wpf-navwrapper span.fas.fa-chevron-down {
+    padding-right: 3px!important;
+}
+.pf-search-locatemebut, .pf-gdirections-locatemebut {
+    fill: #6E6E6E;
+    position: absolute;
+    top: 10px;
+    right: 6px;
+    opacity: 0.9;
+}
+.golden-forms .options + label {
+    padding-left: 10px;
+    padding-right: 20px;
+}
+a.pfcareauser {
+
+    margin-right: 0;
+    margin-left: 23px;
+}
+.pf-itempage-sidebarinfo .pf-itempage-sidebarinfo-social .pf-sociallinks-item {
+    margin-left: 6px;
+}
+
+.wpf-header .pf-primary-navclass li a{
+        margin: 0 10px 0 10px;
+}
+.pf-halfmap-list-container .pfitemlists-content-elements.pf2col {
+    margin: 0px 0 0 -15px;
+}
+.pointfinder-currency-changer:before {
+    content: "\f078";
+    color: #fff;
+    font-family: "Font Awesome 5 Free";
+    display: block;
+    margin-left: 10px;
+    line-height: 16px;
+    margin-right: 0;
+    position: absolute;
+    top: 7px;
+    right: auto;
+    left: 0;
+
+}
+.pointfinder-currency-changer select {
+    background: transparent;
+    border: none;
+    color: #fff;
+    border-radius: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 100%;
+    padding-right: 0px;
+    font-size: 12px;
+    font-weight: 600;
+    padding-left: 25px;
+}
+.pointfinder-currency-changer:after {
+    content: " ";
+}
+.pointfinder-currency-changer.pfwpmlenabled {
+    border-left: 1px solid rgba(255,255,255,0.2);
+    border-right:none;
+}
+.wpf-header .pf-sociallinks .pf-sociallinks-item a i.fas.fa-envelope,
+.wpf-header .pf-sociallinks .pf-sociallinks-item a i.fas.fa-phone-square-alt {
+    margin-left: 8px;
+}
+.pf-itempage-sidebarinfo .pf-itempage-sidebarinfo-social .pf-sociallinks-item {
+    margin-right: 0;
+}
+.pfnotificationwindow .pfnottext i {
+    margin-left: 5px;
+}
+#pf-resetfilters-button {
+    margin-left: 0;
+    margin-right: 5%;
+}

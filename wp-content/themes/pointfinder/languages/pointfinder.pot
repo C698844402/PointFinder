@@ -1,0 +1,860 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pointfinder\n"
+"POT-Creation-Date: 2020-03-28 14:57+0300\n"
+"PO-Revision-Date: 2015-09-27 14:48+0300\n"
+"Last-Translator: Webbu <info@webbudesign.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc_html;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: admin/estatemanagement/metabox/js\n"
+"X-Poedit-SearchPathExcluded-2: admin/estatemanagement/taxonomymeta/backbone-min.js\n"
+"X-Poedit-SearchPathExcluded-3: admin/estatemanagement/taxonomymeta/underscore-min.js\n"
+
+#: 404.php:11
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:12
+msgid "The page or listing you're looking for cannot be found. Please use the search field below or go back home!"
+msgstr ""
+
+#: 404.php:16 404.php:18 admin/core/theme-functions.php:1085
+#: admin/core/theme-functions.php:1087 header.php:302 searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: 404.php:22 admin/core/theme-functions.php:1091
+msgid "Return Home"
+msgstr ""
+
+#: admin/comment-part.php:11 admin/core/post-functions.php:312
+msgid "No comments yet"
+msgstr ""
+
+#: admin/comment-part.php:11 admin/core/post-functions.php:312
+msgid "1 comment"
+msgstr ""
+
+#: admin/comment-part.php:11 admin/core/post-functions.php:312
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: admin/comment-part.php:11 admin/core/post-functions.php:312
+msgid "Comments are off for this post"
+msgstr ""
+
+#: admin/comment-part.php:13 admin/core/post-functions.php:316
+msgid "Comments"
+msgstr ""
+
+#: admin/core/post-functions.php:16 admin/core/post-functions.php:197
+msgid "Read more"
+msgstr ""
+
+#: admin/core/post-functions.php:174 admin/core/post-functions.php:189
+msgid "1 Comment / "
+msgstr ""
+
+#: admin/core/post-functions.php:174 admin/core/post-functions.php:189
+msgid "% Comments / "
+msgstr ""
+
+#: admin/core/post-functions.php:175 admin/core/post-functions.php:190
+msgid "by "
+msgstr ""
+
+#: admin/core/post-functions.php:178 admin/core/post-functions.php:193
+msgid "in "
+msgstr ""
+
+#: admin/core/theme-functions.php:538
+#, php-format
+msgid "%s says:"
+msgstr ""
+
+#: admin/core/theme-functions.php:542
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: admin/core/theme-functions.php:549
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: admin/core/theme-functions.php:550 bbpress/user-details.php:65
+msgid "Edit"
+msgstr ""
+
+#: admin/core/theme-functions.php:807
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: admin/core/theme-functions.php:809 admin/core/theme-functions.php:1265
+msgid "Search Results"
+msgstr ""
+
+#: admin/core/theme-functions.php:876
+msgid "Renew Current Plan"
+msgstr ""
+
+#: admin/core/theme-functions.php:879
+msgid "Purchase New Plan"
+msgstr ""
+
+#: admin/core/theme-functions.php:882
+msgid "Upgrade Plan"
+msgstr ""
+
+#: admin/core/theme-functions.php:888
+msgid "Not Found!"
+msgstr ""
+
+#: admin/core/theme-functions.php:1079 admin/core/theme-functions.php:1111
+msgid "Sorry!"
+msgstr ""
+
+#: admin/core/theme-functions.php:1080
+msgid "Nothing found..."
+msgstr ""
+
+#: admin/core/theme-functions.php:1081
+msgid "You better try to search"
+msgstr ""
+
+#: admin/core/theme-functions.php:1112
+msgid "You must login to see this page."
+msgstr ""
+
+#: admin/core/theme-functions.php:1171
+msgid "Home"
+msgstr ""
+
+#: admin/core/theme-functions.php:1194 admin/core/theme-functions.php:1201
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: admin/core/theme-functions.php:1260 admin/core/theme-functions.php:1261
+#: admin/core/theme-functions.php:1262
+msgid "Archive for"
+msgstr ""
+
+#: admin/core/theme-functions.php:1263
+msgid "Author Archive"
+msgstr ""
+
+#: admin/core/theme-functions.php:1264
+msgid "Blog Archives"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:393
+#: admin/tgm/class-tgm-plugin-activation.php:920
+#: admin/tgm/class-tgm-plugin-activation.php:2626
+#: admin/tgm/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:394
+#: admin/tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1027
+#: admin/tgm/class-tgm-plugin-activation.php:1030
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3600
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3602
+#: admin/tgm/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3602
+#: admin/tgm/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3608
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: author.php:28
+msgid "Author's Posts:"
+msgstr ""
+
+#: bbpress/form-forum.php:35
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-forum.php:37
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr ""
+
+#: bbpress/form-forum.php:47
+msgid "This forum is closed to new content, however your account still allows you to do so."
+msgstr ""
+
+#: bbpress/form-forum.php:55
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: bbpress/form-forum.php:67
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-forum.php:82
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr ""
+
+#: bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr ""
+
+#: bbpress/form-forum.php:100
+msgid "Status:"
+msgstr ""
+
+#: bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr ""
+
+#: bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr ""
+
+#: bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr ""
+
+#: bbpress/form-forum.php:138
+msgid "Submit"
+msgstr ""
+
+#: bbpress/form-forum.php:161
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr ""
+
+#: bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: bbpress/form-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: bbpress/form-user-edit.php:22 bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:22
+msgid "Username"
+msgstr ""
+
+#: bbpress/form-user-edit.php:27 bbpress/form-user-register.php:27
+msgid "Email"
+msgstr ""
+
+#: bbpress/form-user-edit.php:39
+#, php-format
+msgid "There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
+msgstr ""
+
+#: bbpress/form-user-edit.php:48
+msgid "New Password"
+msgstr ""
+
+#: bbpress/form-user-edit.php:54
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr ""
+
+#: bbpress/form-user-edit.php:60
+msgid "Type your new password again."
+msgstr ""
+
+#: bbpress/form-user-edit.php:64
+msgid "Your password should be at least ten characters long. Use upper and lower case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+
+#: bbpress/form-user-edit.php:70
+msgid "First Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:77
+msgid "Last Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:84
+msgid "Nickname"
+msgstr ""
+
+#: bbpress/form-user-edit.php:91
+msgid "Display Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:100
+msgid "Biographical Info"
+msgstr ""
+
+#: bbpress/form-user-edit.php:115
+msgid "Website"
+msgstr ""
+
+#: bbpress/form-user-edit.php:136
+msgid "Network Role"
+msgstr ""
+
+#: bbpress/form-user-edit.php:139
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: bbpress/form-user-edit.php:157
+msgid "Update Profile"
+msgstr ""
+
+#: bbpress/form-user-edit.php:157
+msgid "Update User"
+msgstr ""
+
+#: bbpress/form-user-login.php:22
+msgid "Password"
+msgstr ""
+
+#: bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr ""
+
+#: bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:17
+msgid "Username or Email"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:26
+msgid "Reset My Password"
+msgstr ""
+
+#: bbpress/form-user-register.php:16
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+
+#: bbpress/form-user-register.php:17
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr ""
+
+#: bbpress/form-user-register.php:35 header.php:168 header.php:376
+msgid "Register"
+msgstr ""
+
+#: bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#: bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr ""
+
+#: bbpress/loop-forums.php:21
+msgid "Replies"
+msgstr ""
+
+#: bbpress/loop-forums.php:21
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-forums.php:22
+msgid "Freshness"
+msgstr ""
+
+#: bbpress/user-details.php:29
+msgid "Profile"
+msgstr ""
+
+#: bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:48
+msgid "Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr ""
+
+#: comments.php:3
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:15
+msgid "Comments are closed here."
+msgstr ""
+
+#: comments.php:30
+#, php-format
+msgid "You must be %s logged in %s to post a comment."
+msgstr ""
+
+#: comments.php:39
+msgid "Name"
+msgstr ""
+
+#: comments.php:45
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:58
+msgid "Your comment"
+msgstr ""
+
+#: footer.php:10 header.php:298
+msgid "User Menu"
+msgstr ""
+
+#: footer.php:14 header.php:290
+msgid "Menu"
+msgstr ""
+
+#: footer.php:15 footer.php:19
+msgid "Back to Top"
+msgstr ""
+
+#: footer.php:16
+msgid "Open"
+msgstr ""
+
+#: functions.php:31
+msgid "Point Finder Main Menu"
+msgstr ""
+
+#: functions.php:32
+msgid "Point Finder Footer Menu"
+msgstr ""
+
+#: functions.php:169
+msgid "PF Default Widget Area"
+msgstr ""
+
+#: functions.php:170
+msgid "PF  Default Widget Area"
+msgstr ""
+
+#: functions.php:179
+msgid "PF Item Page Widget"
+msgstr ""
+
+#: functions.php:180
+msgid "Widget area for item detail page."
+msgstr ""
+
+#: functions.php:189
+msgid "PF Author Page Widget"
+msgstr ""
+
+#: functions.php:190
+msgid "Widget area for author detail page."
+msgstr ""
+
+#: functions.php:200
+msgid "PF bbPress Sidebar"
+msgstr ""
+
+#: functions.php:201
+msgid "Widget area for inner bbPress pages."
+msgstr ""
+
+#: functions.php:212
+msgid "PF WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:213
+msgid "Widget area for inner WooCommerce pages."
+msgstr ""
+
+#: functions.php:224
+msgid "PF dsIdxpress Sidebar"
+msgstr ""
+
+#: functions.php:225
+msgid "Widget area for inner dsIdxpress pages."
+msgstr ""
+
+#: functions.php:234
+msgid "PF Category Sidebar"
+msgstr ""
+
+#: functions.php:235
+msgid "Widget area for Item Category Page."
+msgstr ""
+
+#: functions.php:245
+msgid "PF Search Results Sidebar"
+msgstr ""
+
+#: functions.php:246
+msgid "Widget area for Item Search Results Page."
+msgstr ""
+
+#: functions.php:256
+msgid "PF Blog Sidebar"
+msgstr ""
+
+#: functions.php:257
+msgid "Widget area for single blog page."
+msgstr ""
+
+#: functions.php:267
+msgid "PF Blog Category Sidebar"
+msgstr ""
+
+#: functions.php:268
+msgid "Widget area for blog category page."
+msgstr ""
+
+#: functions.php:277
+msgid "PF Blog Search Results Sidebar"
+msgstr ""
+
+#: functions.php:278
+msgid "Widget area for blog search results page."
+msgstr ""
+
+#: header.php:167 header.php:375
+msgid "Login"
+msgstr ""
+
+#: header.php:173 header.php:377
+msgid "Forgot Password"
+msgstr ""
+
+#: header.php:211
+msgid "Messages"
+msgstr ""
+
+#: header.php:225 header.php:404
+msgid "Logout"
+msgstr ""
+
+#: header.php:346
+msgid "Languages:"
+msgstr ""
+
+#: loop.php:92
+#, php-format
+msgid "%s Result(s) found! "
+msgstr ""
+
+#: sloop.php:18 sloop.php:31
+msgid "Pages:"
+msgstr ""
+
+#: sloop.php:24
+msgid "Next page"
+msgstr ""
+
+#: sloop.php:25
+msgid "Previous page"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:61
+msgid "Create an account?"
+msgstr ""

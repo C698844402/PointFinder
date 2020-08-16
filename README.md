@@ -11,6 +11,6 @@
 - Then go to Appearance -> Import Demo Data -> **Real Estate**
 - That will import all content, widgets and also set some default settings.
 ## Required Customization :soon:
-
+## Contributors :soon:
 ## Goal
 :heavy_check_mark:**WordPress themes and WordPress plugins they are using {Customization}**

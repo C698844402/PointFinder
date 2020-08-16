@@ -13,4 +13,4 @@
 ## Required Customization :soon:
 ## Contributors :soon:
 ## Goal
-:heavy_check_mark:**WordPress themes and WordPress plugins they are using {Customization}**
+:heavy_check_mark:**expand my skillset, opportunity for growth and career development**
